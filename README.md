@@ -2,8 +2,15 @@
 
 # Bass Model Analysis  
 
-This project examines worldwide consumer spending on smart home technologies and applies the **Bass Diffusion Model** to explore adoption patterns and forecast future trends.  
+This project analyzes how global consumer spending on smart home technologies has evolved from 2015 to 2025 and uses the **Bass Diffusion Model** to understand and forecast the adoption behavior of such technologies over time.
 
+The **Bass model** is a widely used tool in marketing and innovation research. It helps us estimate how many people will adopt a new product based on two types of adopters:  
+- **Innovators** who adopt early based on external influence (parameter **p**)  
+- **Imitators** who adopt based on interactions with others (parameter **q**)  
+
+By fitting the model to real consumer spending data, we can predict future trends and visualize the speed and saturation of adoption in the market.
+
+---
 ## 📂 Project Contents  
 
 **data/**  
